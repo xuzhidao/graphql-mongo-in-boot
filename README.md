@@ -1,7 +1,7 @@
-# Spring Boot + GraphQL + MySQL example
+# Spring Boot + GraphQL + MongoDB example
 
 For more detail, please visit:
-> [Spring Boot + GraphQL + MySQL example with Spring JPA & graphql-spring-boot-starter](https://bezkoder.com/spring-boot-graphql-mysql-jpa/)
+> [Spring Boot + GraphQL + MongoDB example with Spring JPA & graphql-spring-boot-starter](https://bezkoder.com/spring-boot-graphql-mysql-jpa/)
 
 
 ## Run Spring Boot application
